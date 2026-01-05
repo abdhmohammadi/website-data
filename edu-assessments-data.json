@@ -52,14 +52,14 @@
                             
                 "assessments": 
                 [
-                                    {
-                                        "id": "statistics-probability-140407-Formative",
-                                        "title": "آمار و احتمال،آزمون مستمر مهر 1404",
-                                        "description": "آشنایی با منطق گزاره ها",
-                                        "image": "../images/exam-previews/mathematics/statistics-and-probability/formative-assessments/140407.png",
-                                        "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDjF1JuuPaRTbXACVmEjtb8AerLFTV_PpZs4HbgztXqFYI?e=Ofoqhu",
-                                        "date": "1404/07"
-                                    },
+                    {
+                        "id": "statistics-probability-140407-Formative",
+                        "title": "آمار و احتمال،آزمون مستمر مهر 1404",
+                        "description": "آشنایی با منطق گزاره ها",
+                        "image": "../images/exam-previews/mathematics/statistics-and-probability/formative-assessments/140407.png",
+                        "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDjF1JuuPaRTbXACVmEjtb8AerLFTV_PpZs4HbgztXqFYI?e=Ofoqhu",
+                        "date": "1404/07"
+                    },
                                     {
                                         "id": "statistics-probability-1404-day",
                                         "title": "آمار و احتمال، دی ماه 1404 + پاسخنامه",
