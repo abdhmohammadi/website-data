@@ -1,0 +1,121 @@
+{ 
+    "mathematics":
+    {
+        "title": "ریاضی-فیزیک",
+        "icon": "🧮",
+        "TextBooks": 
+        [
+            {
+                "id": "stats-probability", 
+                "title": "آمار و احتمال",
+                "type": "exam-gallery",
+                "assessments":[]
+                            
+            },
+                        {
+                            "id": "discrete-math",
+                            "title": "ریاضیات گسسته",
+                            "type": "exam-gallery",
+                            
+                            "assessments": 
+                            [
+
+                                {
+                                    "id": "discrete-math-sheet",
+                                    "title": "ریاضیات گسسته",
+                                    "description": "جزوه استدلال و منطق",
+                                    "image": "../images/Logic.png",
+                                    "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EdnarEBeSKVAmoTS-LbfGesBUXmQjm8vpzCt8YDIjykdGw?e=17QDB3",
+                                    "date": "1404/07"
+                                }
+                            ]    
+                        },
+                        {
+                            "id": "geometry-3",
+                            "title": "هندسه 3",
+                            "type": "exam-gallery",
+                            
+                                "assessments": []
+                            
+                        }
+        ]
+    },
+    "humanity-science":
+    {
+        "title": "ریاضی و آمار انسانی",
+        "icon": "📈",
+        "TextBooks": 
+        [
+                        {
+                            "id": "humanities-1",
+                            "title": "ریاضی و آمار 1",
+                            "type": "exam-gallery",
+                            
+                                "assessments": 
+                                [
+                                    
+                                ]
+                        },
+                        {
+                            "id": "humanities-2",
+                            "title": "ریاضی و آمار 2",
+                            "type": "exam-gallery",
+                            
+                                "assessments": 
+                                [
+                                    
+                                ]
+                            
+                        }
+        ]
+    },
+    "experimental-science":
+    {
+        "title": "ریاضی تجربی",
+        "icon": "🔬",
+        "TextBooks": 
+        [
+            {
+                            "id": "experimental-1",
+                            "title": "ریاضی 1 تجربی",
+                            "type": "exam-gallery",
+                    
+                                "assessments": 
+                                [
+                                   
+                                ]
+                            
+            },
+            {
+                "id": "experimental-2",
+                "title": "ریاضی 2 تجربی",
+                "type": "exam-gallery",
+                "assessments": 
+                [
+                 
+                    {
+                        "id": "math-2-slide",
+                        "title": "ریاضی 2 تجربی",
+                        "description": "اسلاید آموزشی",
+                        "image": "../images/Math11T.png",
+                        "url": "https://1drv.ms/p/c/cdf6eeb6642025d1/EbmQu_QgCzJCmZrNF3b-GGcBAxXpml9FxXW6yYrv_mi5Yw?e=DLXktU",
+                        "date": "1399/10"
+                        
+                    }
+                ]
+                            
+            },
+            {
+                            "id": "experimental-3",
+                            "title": "ریاضی 3 تجربی",
+                            "type": "exam-gallery",
+                            
+                                "assessments": [
+                                    
+                                ]
+                            
+                        }
+        ]
+    }     
+}
+
