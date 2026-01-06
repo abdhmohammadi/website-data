@@ -24,7 +24,8 @@
                         "description": "جزوه استدلال و منطق",
                         "image": "../images/Logic.png",
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EdnarEBeSKVAmoTS-LbfGesBUXmQjm8vpzCt8YDIjykdGw?e=17QDB3",
-                        "date": "1404/07"
+                        "date": "1404/07",
+                        "type":"fas fa-file-pdf text-danger"
                     },
                     {
                         "id": "discrete-math-interactive",
