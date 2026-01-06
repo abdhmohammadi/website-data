@@ -12,24 +12,30 @@
                 "assessments":[]
                             
             },
-                        {
-                            "id": "discrete-math",
-                            "title": "ریاضیات گسسته",
-                            "type": "exam-gallery",
-                            
-                            "assessments": 
-                            [
-
-                                {
-                                    "id": "discrete-math-sheet",
-                                    "title": "ریاضیات گسسته",
-                                    "description": "جزوه استدلال و منطق",
-                                    "image": "../images/Logic.png",
-                                    "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EdnarEBeSKVAmoTS-LbfGesBUXmQjm8vpzCt8YDIjykdGw?e=17QDB3",
-                                    "date": "1404/07"
-                                }
-                            ]    
-                        },
+            {
+                "id": "discrete-math",
+                "title": "ریاضیات گسسته",
+                "type": "exam-gallery",
+                "assessments": 
+                [
+                    {
+                        "id": "discrete-math-sheet",
+                        "title": "ریاضیات گسسته",
+                        "description": "جزوه استدلال و منطق",
+                        "image": "../images/Logic.png",
+                        "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EdnarEBeSKVAmoTS-LbfGesBUXmQjm8vpzCt8YDIjykdGw?e=17QDB3",
+                        "date": "1404/07"
+                    },
+                    {
+                        "id": "discrete-math-interactive",
+                        "title": "ریاضیات گسسته",
+                        "description": "ریاضیات گسسته(دوره‌ی درسی استدلال و منطق)",
+                        "image": "../images/MathLogicCourse.png",
+                        "url": "../courses/Mathematics-Reasoning-Course.html",
+                        "date": "1404/07"
+                    }
+                ]    
+            },
                         {
                             "id": "geometry-3",
                             "title": "هندسه 3",
@@ -46,27 +52,48 @@
         "icon": "📈",
         "TextBooks": 
         [
-                        {
-                            "id": "humanities-1",
-                            "title": "ریاضی و آمار 1",
-                            "type": "exam-gallery",
-                            
-                                "assessments": 
-                                [
+            {
+                "id": "humanities-1",
+                "title": "ریاضی و آمار 1",
+                "type": "exam-gallery",
+                "assessments": 
+                [
                                     
-                                ]
-                        },
+                ]
+            },
+            {
+                "id": "humanities-2",
+                "title": "ریاضی و آمار 2",
+                "type": "exam-gallery",
+                "assessments": 
+                [
+                    {
+                        "id": "humanities2-math-sheet",
+                        "title": "ریاضی و آمار 2",
+                        "description":"جزوه آموزشی استدلال و منطق(ویژه رشته انسانی)",
+                        "image": "../images/Logic.png",
+                        "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EWKh4sFOT45DlduMPx07SIQBhuAkIRP3QLKNkOlfMcnvxA?e=Ud3YOG",
+                        "date": "1404/07"
+                    }
+                ]
+            },
                         {
-                            "id": "humanities-2",
-                            "title": "ریاضی و آمار 2",
-                            "type": "exam-gallery",
-                            
-                                "assessments": 
-                                [
-                                    
-                                ]
-                            
-                        }
+                "id": "humanities-3",
+                "title": "ریاضی و آمار 3",
+                "type": "exam-gallery",
+                "assessments": 
+                [
+                    {
+                        "id": "humanities3-math-sheet",
+                        "title": "ریاضی و آمار 3",
+                        "description":"ریاضی و آمار 3-احتمال تا صفحه 18(پاورپوینت)",
+                        "image": "../images/Prop12E.png",
+                        "url": "https://1drv.ms/p/c/cdf6eeb6642025d1/Eao5_UEMcZlKq0DAdKyl3tEBjRgHKFfzfJ00m698MTr7RA?e=CfjdIi",
+                        "date": "1404/07"
+                    }
+                ]
+            }
+
         ]
     },
     "experimental-science":
