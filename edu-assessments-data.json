@@ -75,24 +75,24 @@
                 ]
                             
             },
-                        {
-                            "id": "discrete-math",
+            {
+                "id": "discrete-math",
                             "title": "ریاضیات گسسته",
                             "type": "exam-gallery",
                             "assessments": 
                             [
-                                    {
-                                        "id": "discrete-mathematics-1404-day",
-                                        "title": "ریاضیات گسسته، دی ماه 1404+ پاسخنامه",
-                                        "description": "دبیرستان شاهد امام حسین(ع)، بجنورد",
-                                        "image": "../images/exam-previews/mathematics/discrete-mathematics/140410.png",
-                                        "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQD-M409mTp_SJoT37HZEsMtAYihpyXFQ3-_6CovsvdOKCg?e=PrnIb5",
-                                        "date": "1404/10",
-                                "type":"pdf"
-                                    },
-                                    {
-                                        "id": "discrete-mathematics-140407-formative",
-                                        "title": "آزمون مستمر مهر 1404",
+                                {
+                                    "id": "discrete-mathematics-1404-day",
+                                    "title": "ریاضیات گسسته، دی ماه 1404+ پاسخنامه",
+                                    "description": "دبیرستان شاهد امام حسین(ع)، بجنورد",
+                                    "image": "../images/exam-previews/mathematics/discrete-mathematics/140410.png",
+                                    "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQD-M409mTp_SJoT37HZEsMtAYihpyXFQ3-_6CovsvdOKCg?e=PrnIb5",
+                                    "date": "1404/10",
+                                    "type":"pdf"
+                                },
+                                {
+                                    "id": "discrete-mathematics-140407-formative",
+    "title": "آزمون مستمر مهر 1404",
                                         "description": "منطق و استدلال",
                                         "image": "../images/exam-previews/mathematics/discrete-mathematics/formative-assessments/140407.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQA08tubKw5MSph_0DBubeRpARla9y6sJf8990VHNBnvo7c?e=Io33kZ",
@@ -534,7 +534,6 @@
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDMmkJQBqzzQbhgeLx5G-FSAeNoQbPZXVJ02Wt7hqDZ3Ts?e=hnT3Me",
                                         "date": "1399/10",
                         "type":"pdf"
-                                    
                                     }
                                 ]
                             
