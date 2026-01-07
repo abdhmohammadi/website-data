@@ -9,7 +9,10 @@
                 "id": "stats-probability", 
                 "title": "آمار و احتمال",
                 "type": "exam-gallery",
-                "assessments":[]
+                "assessments":
+                [
+
+                ]
                             
             },
             {
@@ -25,7 +28,7 @@
                         "image": "../images/Logic.png",
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EdnarEBeSKVAmoTS-LbfGesBUXmQjm8vpzCt8YDIjykdGw?e=17QDB3",
                         "date": "1404/07",
-                        "type":"fas fa-file-pdf text-danger"
+                        "type":"pdf"
                     },
                     {
                         "id": "discrete-math-interactive",
@@ -33,18 +36,20 @@
                         "description": "ریاضیات گسسته(دوره‌ی درسی استدلال و منطق)",
                         "image": "../images/MathLogicCourse.png",
                         "url": "../courses/Mathematics-Reasoning-Course.html",
-                        "date": "1404/07"
+                        "date": "1404/07",
+                        "type":"html"
                     }
                 ]    
             },
-                        {
-                            "id": "geometry-3",
-                            "title": "هندسه 3",
-                            "type": "exam-gallery",
-                            
-                                "assessments": []
-                            
-                        }
+            {
+                "id": "geometry-3",
+                "title": "هندسه 3",
+                "type": "exam-gallery",
+                "assessments":
+                [
+
+                ]
+            }
         ]
     },
     "humanity-science":
@@ -78,7 +83,7 @@
                     }
                 ]
             },
-                        {
+            {
                 "id": "humanities-3",
                 "title": "ریاضی و آمار 3",
                 "type": "exam-gallery",
@@ -94,7 +99,6 @@
                     }
                 ]
             }
-
         ]
     },
     "experimental-science":
@@ -104,15 +108,13 @@
         "TextBooks": 
         [
             {
-                            "id": "experimental-1",
-                            "title": "ریاضی 1 تجربی",
-                            "type": "exam-gallery",
-                    
-                                "assessments": 
-                                [
-                                   
-                                ]
-                            
+                "id": "experimental-1",
+                "title": "ریاضی 1 تجربی",
+                "type": "exam-gallery",
+                "assessments": 
+                [
+                                  
+                ]                            
             },
             {
                 "id": "experimental-2",
@@ -120,7 +122,6 @@
                 "type": "exam-gallery",
                 "assessments": 
                 [
-                 
                     {
                         "id": "math-2-slide",
                         "title": "ریاضی 2 تجربی",
@@ -130,19 +131,16 @@
                         "date": "1399/10"
                         
                     }
-                ]
-                            
+                ]                            
             },
             {
-                            "id": "experimental-3",
-                            "title": "ریاضی 3 تجربی",
-                            "type": "exam-gallery",
-                            
-                                "assessments": [
-                                    
-                                ]
-                            
-                        }
+                "id": "experimental-3",
+                "title": "ریاضی 3 تجربی",
+                "type": "exam-gallery",
+                "assessments": 
+                [
+                ]
+            }
         ]
     }     
 }
