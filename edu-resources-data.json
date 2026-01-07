@@ -23,8 +23,8 @@
                 [
                     {
                         "id": "discrete-math-sheet",
-                        "title": "ریاضیات گسسته",
-                        "description": "جزوه استدلال و منطق",
+                        "title": "فصل 1 - آشنایی با نظریه اعداد",
+                        "description": "استدلال و منطق",
                         "image": "../images/Logic.png",
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EdnarEBeSKVAmoTS-LbfGesBUXmQjm8vpzCt8YDIjykdGw?e=17QDB3",
                         "date": "1404/07",
@@ -32,8 +32,8 @@
                     },
                     {
                         "id": "discrete-math-interactive",
-                        "title": "ریاضیات گسسته",
-                        "description": "ریاضیات گسسته(دوره‌ی درسی استدلال و منطق)",
+                        "title": "فصل 1 - آشنایی با نظریه اعداد",
+                        "description": "تدریس تعاملی استدلال و منطق",
                         "image": "../images/MathLogicCourse.png",
                         "url": "../courses/Mathematics-Reasoning-Course.html",
                         "date": "1404/07",
@@ -75,8 +75,8 @@
                 [
                     {
                         "id": "humanities2-math-sheet",
-                        "title": "ریاضی و آمار 2",
-                        "description":"جزوه آموزشی استدلال و منطق(ویژه رشته انسانی)",
+                        "title": "فصل 1 - آشنایی با منطق و استدلال ریاضی",
+                        "description":"جزوه آموزشی گزاره ها و انواع ترکیب",
                         "image": "../images/Logic.png",
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EWKh4sFOT45DlduMPx07SIQBhuAkIRP3QLKNkOlfMcnvxA?e=Ud3YOG",
                         "date": "1404/07",
@@ -92,8 +92,8 @@
                 [
                     {
                         "id": "humanities3-math-sheet",
-                        "title": "ریاضی و آمار 3",
-                        "description":"ریاضی و آمار 3-احتمال تا صفحه 18(پاورپوینت)",
+                        "title": "فصل 1 - آمار و احتمال",
+                        "description":"احتمال تا صفحه 18(پاورپوینت)",
                         "image": "../images/Prop12E.png",
                         "url": "https://1drv.ms/p/c/cdf6eeb6642025d1/Eao5_UEMcZlKq0DAdKyl3tEBjRgHKFfzfJ00m698MTr7RA?e=CfjdIi",
                         "date": "1404/07",
