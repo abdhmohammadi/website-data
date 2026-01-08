@@ -15,7 +15,7 @@
                         "id": "discrete-diagnostic",
                         "title": "ارزشیابی آغازین ریاضیات گسسته",
                         "description": "رشته ریاضی-فیزیک با پاسخنامه تشریحی",
-                        "image": "../images/exam-previews/mathematics/discrete-mathematics/diagnostic-assessments/140407.png",
+                        "image": "../images/previews/assessments/mathematics/discrete-mathematics/diagnostic-assessments/140407.png",
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EfEHd4H8xYtDuO1MScftnTcBrqV973ua4-xMZNnmIktcxA?e=ummP7M",
                         "date": "1404/07",
                         "type":"pdf"
@@ -24,7 +24,7 @@
                         "id": "geometry-diagnostic",
                         "title": "ارزشیابی آغازین هندسه 3",
                         "description": "رشته ریاضی-فیزیک با پاسخنامه تشریحی",
-                        "image": "../images/exam-previews/mathematics/geometry-3/diagnostic-assessments/140407.png",
+                        "image": "../images/previews/assessments/mathematics/geometry-3/diagnostic-assessments/140407.png",
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EWLvdx8jOxdKvk7delXJiq8BcBqPeomLWxAc5YWlqybJNQ?e=TrD2Mw",
                         "date": "1404/07",
                         "type":"pdf"
@@ -33,7 +33,7 @@
                         "id": "humanity-diagnostic",
                         "title": "ارزشیابی آغازین ریاضی و آمار 2",
                         "description": "انسانی (مدارس خاص) با پاسخنامه تشریحی",
-                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/diagnostic-assessments/140407.png",
+                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/diagnostic-assessments/140407.png",
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EZBtms594zBNlhdh5l_a4tABuLaumRegS33SoiXA04DmXg?e=mXgqnd",
                         "date": "1404/07",
                         "type":"pdf"
@@ -58,7 +58,7 @@
                         "id": "statistics-probability-140407-Formative",
                         "title": "آمار و احتمال،آزمون مستمر مهر 1404",
                         "description": "آشنایی با منطق گزاره ها",
-                        "image": "../images/exam-previews/mathematics/statistics-and-probability/formative-assessments/140407.png",
+                        "image": "../images/previews/assessments/mathematics/statistics-and-probability/formative-assessments/140407.png",
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDjF1JuuPaRTbXACVmEjtb8AerLFTV_PpZs4HbgztXqFYI?e=Ofoqhu",
                         "date": "1404/07",
                         "type":"pdf"
@@ -67,7 +67,7 @@
                         "id": "statistics-probability-1404-day",
                         "title": "آمار و احتمال، دی ماه 1404 + پاسخنامه",
                         "description": "دبیرستان شاهد امام حسین(ع)، بجنورد",
-                       "image": "../images/exam-previews/mathematics/statistics-and-probability/140410.png",
+                       "image": "../images/previews/assessments/mathematics/statistics-and-probability/140410.png",
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQA-Je4fOd23RoTLdQgZUA9fARVxqghxmKKT6t2-i6M3Qtk?e=udevxV",
                         "date": "1404/10",
                         "type":"pdf"
@@ -85,7 +85,7 @@
                                     "id": "discrete-mathematics-1404-day",
                                     "title": "ریاضیات گسسته، دی ماه 1404+ پاسخنامه",
                                     "description": "دبیرستان شاهد امام حسین(ع)، بجنورد",
-                                    "image": "../images/exam-previews/mathematics/discrete-mathematics/140410.png",
+                                    "image": "../images/previews/assessments/mathematics/discrete-mathematics/140410.png",
                                     "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQD-M409mTp_SJoT37HZEsMtAYihpyXFQ3-_6CovsvdOKCg?e=PrnIb5",
                                     "date": "1404/10",
                                     "type":"pdf"
@@ -94,7 +94,7 @@
                                     "id": "discrete-mathematics-140407-formative",
     "title": "آزمون مستمر مهر 1404",
                                         "description": "منطق و استدلال",
-                                        "image": "../images/exam-previews/mathematics/discrete-mathematics/formative-assessments/140407.png",
+                                        "image": "../images/previews/assessments/mathematics/discrete-mathematics/formative-assessments/140407.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQA08tubKw5MSph_0DBubeRpARla9y6sJf8990VHNBnvo7c?e=Io33kZ",
                                         "date": "1404/07",
                         "type":"pdf"
@@ -104,7 +104,7 @@
                                         "id": "discrete-mathematics-140408-formative",
                                         "title": "آزمون مستمر آبان 1404",
                                         "description": "نظریه اعداد",
-                                        "image": "../images/exam-previews/mathematics/discrete-mathematics/formative-assessments/140408.png",
+                                        "image": "../images/previews/assessments/mathematics/discrete-mathematics/formative-assessments/140408.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQArFVGFzlF6R62Db7LJmHyEAfrsDKalt_xhrBCfW4tdQTE?e=0lkcls",
                                         "date": "1404/08",
                         "type":"pdf"
@@ -122,7 +122,7 @@
                                         "id": "geometry-1404-day",
                                         "title": "هندسه 3، دی 1404",
                                         "description": "نمونه سوال + پاسخنامه",
-                                        "image": "../images/exam-previews/mathematics/geometry-3/140410.png",
+                                        "image": "../images/previews/assessments/mathematics/geometry-3/140410.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDzvL46OtbQSKehrpwni4LnAREKLx0bIYVa3ITNrou1_oc?e=mVHfiG",
                                         "date": "1404/09/29",
                         "type":"pdf"
@@ -131,7 +131,7 @@
                                         "id": "geometry-140409-formative",
                                         "title": "آزمون مسترم، آذر 1404",
                                         "description": "ماتریسها+ مقاطع مخروطی(بخش دایره)",
-                                        "image": "../images/exam-previews/mathematics/geometry-3/formative-assessments/140409.png",
+                                        "image": "../images/previews/assessments/mathematics/geometry-3/formative-assessments/140409.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQBLVT1AmvYgQo4DNsIdPaQHAT_9g1n6N27r6E8r3Y97vAA?e=XWkJid",
                                         "date": "1404/09",
                         "type":"pdf"
@@ -158,7 +158,7 @@
                                         "id": "human-1-1404-07-formative",
                                         "title": "آزمون مستمر مهر 1404",
                                         "description": "مسائل توصیفی + معادلات درجه 2",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/formative-assessments/140407.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/formative-assessments/140407.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQB27ei-Yq1lTJD2zmRKZkQtAQ-8Qk3md8haGxwn7r70Epg?e=MI2PUf",
                                         "date": "1404/07",
                         "type":"pdf"
@@ -167,7 +167,7 @@
                                         "id": "human-1-1404-08-formative",
                                         "title": "آزمون مستمر آبان 1404",
                                         "description": "معادلات درجه 2 + معادلات گویا",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/formative-assessments/140408.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/formative-assessments/140408.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQB3lQoE4i1YQ5lsG-IIKn9XAfmimmh3ZAaPTM2K4D4XZ6k?e=hrgwAc",
                                         "date": "1404/08",
                         "type":"pdf"
@@ -176,7 +176,7 @@
                                         "id": "human-1-1404-10",
                                         "title": "ریاضی و آمار 1 + پاسخنامه دی 1404",
                                         "description": "دبیرستان نمونه دولتی شهید بهشتی",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/140410.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140410.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDyUFiS5lljRKtyRvIZ7uoRAWaEvMGfX0VKm2CZWpK1WWc?e=02gPjs",
                                         "date": "1404/10",
                         "type":"pdf"
@@ -185,7 +185,7 @@
                                         "id": "human-1-1404-03",
                                         "title": "ریاضی و آمار 1 انسانی، خرداد 1404",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/140403.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140403.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQClJoLg9qFQSrRPwRHBpYSvAfOTEv3Ri_g3SwAKNHF29uc?e=nA6EXc",
                                         "date": "1404/03",
                         "type":"pdf"
@@ -195,7 +195,7 @@
                                         "id": "human-1-1403-10",
                                         "title": "ریاضی و آمار 1 انسانی، دی ماه 1403",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/140310.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140310.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDfG6PShGfvQLHWKGrS4wp6AeIRaBtYeDqYjK1dyugxaaE?e=ETpiIe",
                                         "date": "1403/10",
                         "type":"pdf"
@@ -205,7 +205,7 @@
                                         "id": "human-1-1402-10",
                                         "title": "ریاضی و آمار 1 انسانی، دی ماه 1402",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/140210.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140210.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDHrvtMehhrSa5pW_ol28JDARczXlJuMAKG17TlGPXPzJg?e=UJPHGP",
                                         "date": "1402/10",
                         "type":"pdf"
@@ -214,7 +214,7 @@
                                         "id": "human-1-1402-03",
                                         "title": "ریاضی و آمار 1 انسانی، خرداد 1402",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/140203.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140203.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQC3yiwcmfJwRZGkgpEUNMNiAcK4zT17F_X7nlfQv5fsgto?e=vPapHl",
                                         "date": "1402/03",
                         "type":"pdf"
@@ -223,7 +223,7 @@
                                         "id": "human-1-1401-10",
                                         "title": "ریاضی و آمار 1 انسانی، دی ماه 1401",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/140110.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140110.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQCkge-iW2HmQ4kHlvTndO-kAZPqr-ig6CkQRtudkhpxEKI?e=crk8oK",
                                         "date": "1401/10",
                         "type":"pdf"
@@ -232,7 +232,7 @@
                                         "id": "human-1-1401-06",
                                         "title": "ریاضی و آمار 1 انسانی، شهریور 1401",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/140106.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140106.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQAWDUCxUXywSLgIig0L4FccASoj_qAR4thcfx6wTpDtNl8?e=hJ966r",
                                         "date": "1401/06",
                         "type":"pdf"
@@ -241,7 +241,7 @@
                                         "id": "human-1-1401-03",
                                         "title": "ریاضی و آمار 1 انسانی، خرداد 1401",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/140103.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140103.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQCrRC4wwrddQ5DHTGlD7mlzAe_Iri5M6SzG9ADyIF6KFQs?e=aTwO45",
                                         "date": "1401/03",
                         "type":"pdf"
@@ -250,7 +250,7 @@
                                         "id": "human-1-1400-10",
                                         "title": "ریاضی و آمار 1 انسانی، دی ماه 1400",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-1/140010.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140010.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQATfbqjqDVBRqjpuE0xaZQUAfg_EX9Uh6NtzmBJaPxi2WA?e=msQoOR",
                                         "date": "1400/10",
                         "type":"pdf"
@@ -268,7 +268,7 @@
                                         "id": "human-2-1404-07-formative",
                                         "title": "آزمون مستمر مهر 1404",
                                         "description": "مفاهیم پایه گزاره های منطقی",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/formative-assessments/140407.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/formative-assessments/140407.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQCu3oKj3OrRT6Md2HrNS67zAXDprdNOBGQ22DNZkhH5Qbo?e=LItE7Y",
                                         "date": "1404/07",
                         "type":"pdf"
@@ -277,7 +277,7 @@
                                         "id": "human-2-1404-08-formative",
                                         "title": "آزمون مستمر آبان 1404",
                                         "description": "گزاره ها + استدلال",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/formative-assessments/140408.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/formative-assessments/140408.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQC_Px71-gXnTbch2ngZdg84AYlwFWG7zYSlk9y_7CDGylc?e=ivkyLq",
                                         "date": "1404/08",
                         "type":"pdf"
@@ -286,7 +286,7 @@
                                         "id": "human-2-1404-10",
                                         "title": "ریاضی و آمار 2 انسانی، دی 1404",
                                         "description": "نیم‌سال اول - نمونه دولتی شهید بهشتی",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/140410-(1).png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/140410-(1).png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQCDSLtzQGwyQaHlRqYIXlAgAXHc39nU9rLDR-1jPGeraCM?e=zFJgEx",
                                         "date": "1404/10",
                         "type":"pdf"
@@ -295,7 +295,7 @@
                                         "id": "human-2-1404-10",
                                         "title": "ریاضی و آمار 2 انسانی، دی 1404",
                                         "description": "نیم‌سال اول - شاهد امام حسین(ع)",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/140410-(2).png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/140410-(2).png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQCGhfqdhLMAQrzhlqJWyN1oAcmjPRtGgxWiCYlblU3VmaY?e=fcQtax",
                                         "date": "1404/10",
                         "type":"pdf"
@@ -304,7 +304,7 @@
                                         "id": "human-2-1404-03",
                                         "title": "ریاضی و آمار 2 انسانی، خرداد 1404",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/140403.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/140403.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQCTaE7UryAvQ5OIsHRuJ2upAaDWIDtaerAEpjj2l9ZgGGw?e=cpeax9",
                                         "date": "1404/03",
                         "type":"pdf"
@@ -313,7 +313,7 @@
                                         "id": "human-2-1404-06",
                                         "title": "ریاضی و آمار 2 انسانی، شهریور 1404",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/140406.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/140406.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQBvQdk-oLz6TKDtwdDQcgIJAW-4lGA6WgkveL0O5yMTI8w?e=y0geft",
                                         "date": "1404/06",
                         "type":"pdf"
@@ -322,7 +322,7 @@
                                         "id": "human-2-1404-06",
                                         "title": "ریاضی و آمار 2 انسانی، شهریور 1404",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/140406.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/140406.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQBvQdk-oLz6TKDtwdDQcgIJAW-4lGA6WgkveL0O5yMTI8w?e=s6ETqJ",
                                         "date": "1404/06",
                         "type":"pdf"
@@ -331,7 +331,7 @@
                                         "id": "human-2-1402-10",
                                         "title": "ریاضی و آمار 2 انسانی، دی ماه 1402",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/140210.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/140210.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQB9G3vMnQSLQJNBEkgUskQVAeeymzxjlsCytOM8ytgJqAg?e=I9ZsXH",
                                         "date": "1402/10",
                         "type":"pdf"
@@ -340,7 +340,7 @@
                                         "id": "human-2-1401-10",
                                         "title": "ریاضی و آمار 2 انسانی، دی ماه 1401",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/140110.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/140110.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDnZ-xp5CXxQa7pA3CpQ9WmAT2l3xJwjXAoZRMtRPBMVPw?e=jjCXgJ",
                                         "date": "1401/10",
                         "type":"pdf"
@@ -349,7 +349,7 @@
                                         "id": "human-2-1401-06",
                                         "title": "ریاضی و آمار 2 انسانی، شهریور 1401",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/140106.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/140106.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDTd1tt0zFlQ72T7vYV6WadAQHBrQwJ0QTDCCCZm5-b4Gg?e=NQeCbA",
                                         "date": "1401/06",
                         "type":"pdf"
@@ -358,7 +358,7 @@
                                         "id": "human-2-1401-03",
                                         "title": "ریاضی و آمار 2 انسانی، خرداد 1401",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-2/140103.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-2/140103.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQAOEp44ZalOS63djwUw4iC2AQurxS0jSX871SgjTRYvCpI?e=QG1iub",
                                         "date": "1401/03",
                         "type":"pdf"
@@ -375,7 +375,7 @@
                                         "id": "human-3-1402-10",
                                         "title": "ریاضی و آمار 3 انسانی، دی 1402",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-3/140210.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-3/140210.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQCHWcTyAqDWRLcIY9kDc0NzAVHl_PvrgI0EtRi9-rAe0Ro?e=YHzHMC",
                                         "date": "1402/10",
                         "type":"pdf"
@@ -384,7 +384,7 @@
                                         "id": "human-3-1400-10",
                                         "title": "ریاضی و آمار 3 انسانی، دی ماه 1400",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-3/140010.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-3/140010.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQAcQShkXHabTo9ojqODka0aAWXwx8aSCBNXIwJ6crrp9Tw?e=ycvROM",
                                         "date": "1400/10",
                         "type":"pdf"
@@ -393,7 +393,7 @@
                                         "id": "human-2-1401-10",
                                         "title": "ریاضی و آمار 3 انسانی، دی ماه 1401",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/humanity-science/math-and-statistics-3/140110.png",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-3/140110.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQCzudQ7-FZhQr7WWzM5WwgQAbHJ_VsJg4krCyEXmIY2rhE?e=Qalgjc",
                                         "date": "1401/10",
                         "type":"pdf"
@@ -420,7 +420,7 @@
                                         "id": "exp-1-1402-10",
                                         "title": "ریاضی 1 تجربی، دی 1402",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/experimental-science/math-1/140210.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-1/140210.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQBbyclmwgYvTpcXwdViBJoPAfvtqfwtN1ro5g4wDE2A8nM?e=cPvZrO",
                                         "date": "1402/10",
                         "type":"pdf"
@@ -429,7 +429,7 @@
                                         "id": "exp-1-1400-03",
                                         "title": "ریاضی 1 تجربی، خرداد 1400",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/experimental-science/math-1/140003.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-1/140003.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDaw_p5Wy96QJGUU8G9Lh0DAXOfdq-fsdk65TSi1qXgzxY?e=zNCnmE",
                                         "date": "1400/03",
                         "type":"pdf"
@@ -438,7 +438,7 @@
                                         "id": "exp-1-1399-10",
                                         "title": "ریاضی 1 تجربی، دی 1399",
                                         "description": "دبیرستان دخترانه اسماء(چهار گزینه ای)",
-                                        "image": "../images/exam-previews/experimental-science/math-1/139910.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-1/139910.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQBjjQHGmLuxSLgOO7fn9zQbAUPkMo2vZzfEAZHDtpAS8Gw?e=kSdQ35",
                                         "date": "1399/10",
                         "type":"pdf"
@@ -457,7 +457,7 @@
                                         "id": "exp-2-1399-10",
                                         "title": "ریاضی 2 تجربی، دی 1399",
                                         "description": "دبیرستان دخترانه اسماء(چهار گزینه ای)",
-                                        "image": "../images/exam-previews/experimental-science/math-2/139910.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-2/139910.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQBKhwEo4lcNTKoLEhSgrG7bARFGGtIMr5Q1cI_pbZNY57Q?e=6VUbpc",
                                         "date": "1399/10",
                         "type":"pdf"
@@ -466,7 +466,7 @@
                                         "id": "exp-2-1401-03",
                                         "title": "ریاضی 2 تجربی، خرداد 1401",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/experimental-science/math-2/140103.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-2/140103.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQAOEp44ZalOS63djwUw4iC2AQurxS0jSX871SgjTRYvCpI?e=jFFhbI",
                                         "date": "1401/03",
                         "type":"pdf"
@@ -475,7 +475,7 @@
                                         "id": "exp-2-1404-03",
                                         "title": "ریاضی 2 تجربی، خرداد 1404",
                                         "description": "نمونه سوال + پاسخنامه - رتبه سوم جشنواره",
-                                        "image": "../images/exam-previews/experimental-science/math-2/140403.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-2/140403.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDmA72fdWVOT5kYhcQ21AMUATgFmpIvmocmO8FJwLxHVF8?e=5jMF84ُ",
                                         "date": "1404/03",
                         "type":"pdf"
@@ -484,7 +484,7 @@
                                         "id": "exp-2-1403-10",
                                         "title": "ریاضی 2 تجربی، دی 1403",
                                         "description": "نمونه سوال + پاسخنامه - رتبه اول جشنواره",
-                                        "image": "../images/exam-previews/experimental-science/math-2/140310.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-2/140310.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDbxuL-mdlYT5j6KzhMyqijAZf6t3QyDrSL3LgV0Y3l6Rk?e=u1uTbW",
                                         "date": "1403/10",
                         "type":"pdf"
@@ -493,7 +493,7 @@
                                         "id": "exp-2-1400-10",
                                         "title": "ریاضی 2 تجربی، دی 1400",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/experimental-science/math-2/140010.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-2/140010.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQCVbncioQwRQohM1A0Hw4A8ARixiPAxQYFjyNRuzKhuf1A?e=pTiQOG",
                                         "date": "1400/10",
                         "type":"pdf"
@@ -502,7 +502,7 @@
                                         "id": "exp-2-1404-06",
                                         "title": "ریاضی 2 تجربی، شهریور 1404",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/experimental-science/math-2/140406.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-2/140406.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQAUOsrtaO67QYir0IyOMuCKAQ-R_N0oDjXs08eA2Hdk1Jw?e=AGRxAI",
                                         "date": "1404/06",
                         "type":"pdf"
@@ -520,7 +520,7 @@
                                         "id": "exp-3-1401-10",
                                         "title": "ریاضی 3 تجربی، دی 1401",
                                         "description": "دبیرستان الغدیر",
-                                        "image": "../images/exam-previews/experimental-science/math-3/140110.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-3/140110.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDuU9_SKbxbQos4gncyVDQEAaqgmEsgxqf08C0vJqedvhc?e=2mXcAo",
                                         "date": "1401/10",
                         "type":"pdf"
@@ -530,7 +530,7 @@
                                         "id": "exp-3-1399-10",
                                         "title": "ریاضی 3 تجربی، دی 1399",
                                         "description": "دبیرستان دخترانه اسماء(چهار گزینه ای)",
-                                        "image": "../images/exam-previews/experimental-science/math-3/139910.png",
+                                        "image": "../images/previews/assessments/experimental-science/math-3/139910.png",
                                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQDMmkJQBqzzQbhgeLx5G-FSAeNoQbPZXVJ02Wt7hqDZ3Ts?e=hnT3Me",
                                         "date": "1399/10",
                         "type":"pdf"
