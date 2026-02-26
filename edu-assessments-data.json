@@ -155,6 +155,15 @@
                                 "assessments": 
                                 [
                                     {
+                                        "id": "human-1-1404-12",
+                                        "title": "آزمون مستمر، رسم نمودار سهمی + پاسخنامه",
+                                        "description": "نمونه دولتی شهید بهشتی",
+                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140412.png",
+                                        "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQBxSi0unirzS5zgL_pGuS9kAduDv7BZcOxx4tbb93I7X_A?e=3wtWxC",
+                                        "date": "1404/12",
+                                        "type":"pdf"
+                                    },
+                                    {
                                         "id": "human-1-1404-07-formative",
                                         "title": "آزمون مستمر مهر 1404",
                                         "description": "مسائل توصیفی + معادلات درجه 2",
