@@ -144,29 +144,28 @@
         "icon": "📈",
         "TextBooks": 
         [
+            {
+                "id": "humanities-1",
+                "title": "ریاضی و آمار 1",
+                "type": "exam-gallery",
+                "assessments": 
+                [
                         {
-                            "id": "humanities-1",
-                            "title": "ریاضی و آمار 1",
-                            "type": "exam-gallery",
-                            
-                                "assessments": 
-                                [
-                                    {
-                                        "id": "human-1-1404-12",
-                                        "title": "آزمون مستمر، رسم نمودار سهمی + پاسخنامه",
-                                        "description": "نمونه دولتی شهید بهشتی",
-                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140412.png",
-                                        "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQBxSi0unirzS5zgL_pGuS9kAduDv7BZcOxx4tbb93I7X_A?e=3wtWxC",
-                                        "date": "1404/12",
-                                        "type":"pdf"
-                                    },
-                                    {
-                                        "id": "human-1-1404-07-formative",
-                                        "title": "آزمون مستمر مهر 1404",
-                                        "description": "مسائل توصیفی + معادلات درجه 2",
-                                        "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/formative-assessments/140407.png",
-                                        "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQB27ei-Yq1lTJD2zmRKZkQtAQ-8Qk3md8haGxwn7r70Epg?e=MI2PUf",
-                                        "date": "1404/07",
+                            "id": "human-1-1404-12",
+                            "title": "آزمون مستمر، رسم نمودار سهمی + پاسخنامه",
+                            "description": "نمونه دولتی شهید بهشتی",
+                            "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/140412.png",
+                            "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQBxSi0unirzS5zgL_pGuS9kAduDv7BZcOxx4tbb93I7X_A?e=3wtWxC",
+                            "date": "1404/12",
+                            "type":"pdf"
+                        },
+                        {
+                            "id": "human-1-1404-07-formative",
+                            "title": "آزمون مستمر مهر 1404",
+                            "description": "مسائل توصیفی + معادلات درجه 2",
+                            "image": "../images/previews/assessments/humanity-science/math-and-statistics-1/formative-assessments/140407.png",
+                            "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/IQB27ei-Yq1lTJD2zmRKZkQtAQ-8Qk3md8haGxwn7r70Epg?e=MI2PUf",
+                            "date": "1404/07",
                         "type":"pdf"
                     },
                     {
@@ -402,8 +401,7 @@
                         "type":"pdf"
                     }
                 ]
-                
-                        }
+            }
         ]
     },
     "experimental-science":
@@ -447,7 +445,6 @@
                         "type":"pdf"
                     }
                 ]
-                
             },
             {
                 "id": "experimental-2",
@@ -511,7 +508,6 @@
                         "type":"pdf"
                     }
                 ]
-                
             },
             {
                 "id": "experimental-3",
@@ -540,8 +536,7 @@
                     }
                 ]
                 
-                        }
+            }
         ]
     }     
 }
-
