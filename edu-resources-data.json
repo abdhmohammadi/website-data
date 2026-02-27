@@ -81,6 +81,15 @@
                         "url": "https://1drv.ms/b/c/cdf6eeb6642025d1/EWKh4sFOT45DlduMPx07SIQBhuAkIRP3QLKNkOlfMcnvxA?e=Ud3YOG",
                         "date": "1404/07",
                         "type":"pdf"
+                    },
+                    {
+                        "id": "humanities2-interactive-P45-53",
+                        "title": "درسنامه تعاملی ریاضی و آمار 2",
+                        "description":"تدریس تعاملی صفحات 45 تا 53",
+                        "image": "../images/previews/interactive.png",
+                        "url": "../courses/interactive/humanity-science/math-and-statistics2/P45-53.html",
+                        "date": "1404/12",
+                        "type":"html"
                     }
                 ]
             },
